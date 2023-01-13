@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there 👋
+
+I'm a front-end developer with vast experience in several domains.
+
+My personal project are not visible on GitHub since I developed the project with NDA signing in private.
+
+I'm always learning new stuff, reading some book.
+
+Now, I'm actively looking for a new opportunity...
 
 <!--
 **christoph724/christoph724** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
