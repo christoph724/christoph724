@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a front-end developer with vast experience in several domains.
+I'm a front-end developer with 7+ years of extensive experience in the design, development, coding, and testing of applications and websites.
 
 My personal project are not visible on GitHub since I developed the project with NDA signing in private.
 
