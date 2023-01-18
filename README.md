@@ -6,14 +6,10 @@ Front End Developer
 
 I've been working for 8+ years as a front-end developer in several domains. I have extensive experience in the design, development, coding, and testing of applications and websites. I started my career with HTML, PHP, etc but I've mastered modern frontend frameworks like Next.js and Nuxt.js now. They are my key skills.
 
-* 🌍  I'm based in New York
-* ✉️  You can contact me at [christophmartin724@gmail.com](mailto:christophmartin724@gmail.com)
-* 🧠  I'm learning a new framework.
-* 🤝  I'm open to collaborating on React, Vue.js, Next.js, and Nuxt.js.
-
-### Skills
-
-
+*   🌍  I'm based in New York
+*   ✉️  You can contact me at [christophmartin724@gmail.com](mailto:christophmartin724@gmail.com)
+*   🧠  I'm learning a new framework.
+*   🤝  I'm open to collaborating on React, Vue.js, Next.js, and Nuxt.js.### Skills 
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -42,12 +38,15 @@ I've been working for 8+ years as a front-end developer in several domains. I ha
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
 </p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/christoph724" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/christopher-martin-frontend-developer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                          
+                      <a href="https://www.github.com/christoph724" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.linkedin.com/in/christopher-martin-frontend-developer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 <!--
 **christoph724/christoph724** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
