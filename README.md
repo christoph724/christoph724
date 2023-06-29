@@ -6,7 +6,7 @@ Front End Developer
 
 I've been working for 8+ years as a front-end developer in several domains. I have extensive experience in the design, development, coding, and testing of applications and websites. I started my career with HTML, PHP, etc but I've mastered modern frontend frameworks like Next.js and Nuxt.js now. They are my key skills.
 
-* 🌍  I'm based in New York
+* 🌍  I'm based in Manchester.
 * ✉️  You can contact me at [christophmartin724@gmail.com](mailto:christophmartin724@gmail.com)
 * 🧠  I'm learning a new framework.
 * 🤝  I'm open to collaborating on React, Vue.js, Next.js, and Nuxt.js.
